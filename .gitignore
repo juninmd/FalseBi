@@ -259,3 +259,13 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+secrets/
+config/secrets.yml
