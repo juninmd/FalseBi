@@ -11,7 +11,7 @@ We release security updates for the following versions:
 
 ## Reporting a Vulnerability
 
-Please report security vulnerabilities by emailing security@example.com.
+Please report security vulnerabilities by emailing security@yourdomain.com.
 We will acknowledge receipt of your report within 48 hours and will provide a detailed response within 7 days.
 
 If the issue is confirmed, we will:
@@ -29,7 +29,7 @@ We ask that you do not publicly disclose the vulnerability until we have had an 
 - We recommend using a secrets management service in production
 
 ### Dependency Security
-- We use Dependabot for automated dependency updates
+- We use Renovate for automated dependency updates
 - We regularly audit dependencies for known vulnerabilities
 - We pin dependency versions in production environments
 
